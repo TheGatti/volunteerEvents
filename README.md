@@ -1,4 +1,5 @@
-# volunteerapp
+# volunteerEvents
 
 Uh... is this how a README works?
-# volunteerEvents
+
+edit: Yes. Yes it is.
