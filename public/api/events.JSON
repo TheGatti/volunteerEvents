@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rattata for Humanity",
+    "date": "December 24, 2016",
+    "id": 0,
+    "goingTo": true
+  },
+  {
+    "name": "Pokeballs to the Wall Dodgeball",
+    "date": "October 11, 2016",
+    "id": 1,
+    "goingTo": true
+  },
+  {
+    "name": "Booze, Brews, and Pikachus",
+    "date": "August 8, 2016",
+    "id": 2,
+    "goingTo": true
+  },
+  {
+    "name": "Kakuna Mattata. A Weedle, Tiny Benefit",
+    "date": "November 14, 2016",
+    "id": 3,
+    "goingTo": false
+  }
+]

@@ -1,1 +1,10 @@
 <h1>Your Events</h1>
+<ul>
+  <li ng-show = "event.attendingEvents" ng-repeat = "event in events">
+    <h1>{{event.name}}</h1>
+     <p>
+       {{event.date}}
+     </p>
+     <button ng-click = "borrow(book)">I can haz?</button>
+  </li>
+</ul>

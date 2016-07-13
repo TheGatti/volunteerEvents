@@ -1,1 +1,10 @@
 <h1>All Events</h1>
+<ul>
+  <li ng-hide = "event.attendingEvents" ng-repeat = "event in events">
+    <h1>{{event.name}}</h1>
+     <p>
+       {{event.date}}
+     </p>
+     <button ng-click = "attendingEvents(event)">Volunteer Here</button>
+  </li>
+</ul>
